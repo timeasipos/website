@@ -1,2 +1,2 @@
-The MacDowell Colony
-Vermont Studio Center
+- The MacDowell Colony
+- Vermont Studio Center
