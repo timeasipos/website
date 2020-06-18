@@ -12,4 +12,4 @@ layout: page
 <p>Timea Balogh is a Hungarian-American writer and translator with an MFA in Creative Writing from the University of Nevada, Las Vegas. Originally from Budapest, she later studied literary translation at the Balassi Institute in her beloved city.</p>
 
 
-<p>Timea published more than thirty works in reputable American and international magazines in just two years. She is soon to be a resident at The MacDowell Colony and the Vermont Studio Center. She’s currently working on her first book, a short story collection of magical realism about immigrant and queer Hungarian and Hungarian-American women.</p>
+<p>Timea published more than thirty works in reputable American and international magazines in just over two years. She is soon to be a resident at The MacDowell Colony and the Vermont Studio Center. She’s currently working on her first book, a short story collection of magical realism about immigrant and queer Hungarian and Hungarian-American women.</p>

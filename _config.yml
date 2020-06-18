@@ -41,7 +41,6 @@ defaults:
 header_pages:
   - magazines.markdown
   - awards.markdown
-  - residencies.markdown
   - miscellanea.markdown
 
 # Exclude from processing.
