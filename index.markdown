@@ -5,7 +5,7 @@
 layout: page
 ---
 
-![Timi Liberty Bridge](assets/img/main-timi.jpg)
+![Timi Liberty Bridge](assets/img/main-timi.jpg) Image by Cris Kith
 
 <br>
 
