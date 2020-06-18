@@ -1,3 +1,9 @@
+---
+layout: page
+title: Residencies
+permalink: /residencies/
+---
+
 - The MacDowell Colony
 - Vermont Studio Center
 - Translators’ House in Balatonfüred, Hungary
