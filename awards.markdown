@@ -4,6 +4,8 @@ title: Awards
 permalink: /awards/
 ---
 
+- 2020 - Miami Book Fair Emerging Writers Fellowship Honorable Mention
+- 2020 - Foundation for Contemporary Arts Grant
 - 2019 - AWP Tin House Fiction Workshop Scholarship Recipient
 - 2018 - Nevada Arts Council Professional Development Grant
 - 2017 - American Literary Translators Association Travel Fellow

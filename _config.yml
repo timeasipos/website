@@ -18,9 +18,9 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Timea Balogh
-email: contact@timeabalogh.com
-description: "Timea Balogh is a Hungarian-American writer and translator with an MFA in Creative Writing from the University of Nevada, Las Vegas."
+title: Timea Sipos
+email: contact@timea-sipos.com
+description: "Timea Sipos is a Hungarian-American writer and translator with an MFA in Creative Writing from the University of Nevada, Las Vegas."
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: TimeaRozalia
