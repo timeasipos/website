@@ -19,7 +19,7 @@ at the Balassi Institute in her beloved city.
 
 <div stype="text-align:justify; text-justify:inter-word;">
 Timea published more than thirty works, including Hungarian translations and original fiction and 
-poetry, in reputable American and international magazines in just over two years. She has translates 
+poetry, in reputable American and international magazines in just over two years. She translates 
 writers such as Márton Simon, Ilka Papp-Zakor, Kinga Tóth, Éva Veronika Kalapos, Mátyás Dunajcsik, 
 Ferenc Czinki, Zita Izsó, Tibor Babiczky, and many more. She has been awarded residencies at 
 The Macdowell Colony, The Vermont Studio Center, and elsewhere. She’s currently finishing her first 
