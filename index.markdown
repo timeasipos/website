@@ -22,6 +22,8 @@ Timea published more than thirty works, including Hungarian translations and ori
 poetry, in reputable American and international magazines in just over two years. She has translates 
 writers such as Márton Simon, Ilka Papp-Zakor, Kinga Tóth, Éva Veronika Kalapos, Mátyás Dunajcsik, 
 Ferenc Czinki, Zita Izsó, Tibor Babiczky, and many more. She has been awarded residencies at 
-The Macdowell Colony, The Vermont Studio Center, and elsewhere.
+The Macdowell Colony, The Vermont Studio Center, and elsewhere. She’s currently finishing her first 
+book, a short story collection of magical realism and historical fiction centering the narratives of 
+Hungarian and Hungarian-American women.
 </div>
 <br/>
