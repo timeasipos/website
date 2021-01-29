@@ -24,9 +24,12 @@ People interested in pursuing the art of literary translation as a hobby or as a
 
 <div stype="text-align:justify; text-justify:inter-word;">
 One-on-one private consultations on translations available by request. 
-  Please email me at <a href="mailto:contact@timea-sipos.com?subject=Private Consultation">contact@timea-sipos.com</a> about the work in question and what kind of help you are looking for. Some examples of the kind of help I offer:
+  Please email me at <a href="mailto:contact@timea-sipos.com?subject=Private Consultation">contact@timea-sipos.com</a> about the work in question and what kind of help you are looking for.
 </div>
 <br/>
+
+Some examples of the kind of help I offer:
+
 
 - You are a translator from any language into English and would like a second pair of eyes  on your final draft.
 - You are a Hungarian to English translator and have questions about your source text or are uncertain how to translate common Hungarian sayings, what to do with long Hungarian sentences, etc.
