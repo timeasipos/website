@@ -39,6 +39,7 @@ defaults:
       image: true
 
 header_pages:
+  - courses.markdown
   - magazines.markdown
   - awards.markdown
   - miscellanea.markdown
