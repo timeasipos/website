@@ -24,7 +24,7 @@ People interested in pursuing the art of literary translation as a hobby or as a
 
 <div stype="text-align:justify; text-justify:inter-word;">
 One-on-one private consultations on translations available by request. 
-  Please email me at <a href=""contact@timea-sipos.com?subject=Private Consultation">contact@timea-sipos.com</a> about the work in question and what kind of help you are looking for. Some examples of the kind of help I offer:
+  Please email me at <a href="contact@timea-sipos.com?subject=Private Consultation">contact@timea-sipos.com</a> about the work in question and what kind of help you are looking for. Some examples of the kind of help I offer:
 </div>
 <br/>
 
