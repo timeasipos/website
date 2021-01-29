@@ -5,7 +5,7 @@ permalink: /courses/
 ---
 
 <div stype="text-align:justify; text-justify:inter-word;">
-Course offering: Introduction to Hungarian-English Literary Translation (one 90-minute class every Wednesday evening from February to May). 
+  <b>Introduction to Hungarian-English Literary Translation</b> (one 90-minute class every Wednesday evening from February to May). 
   Write to me at <a href="mailto:contact@timea-sipos.com?subject=Course - Intro Hungarian English Literature">contact@timea-sipos.com</a> to sign up.
 </div>
 <br/>
@@ -23,7 +23,7 @@ People interested in pursuing the art of literary translation as a hobby or as a
 <br/>
 
 <div stype="text-align:justify; text-justify:inter-word;">
-One-on-one private consultations on translations available by request. 
+<b>One-on-one private consultations</b> on translations available by request. 
   Please email me at <a href="mailto:contact@timea-sipos.com?subject=Private Consultation">contact@timea-sipos.com</a> about the work in question and what kind of help you are looking for.
 </div>
 <br/>
