@@ -30,5 +30,5 @@ One-on-one private consultations on translations available by request.
 
 - You are a translator from any language into English and would like a second pair of eyes  on your final draft.
 - You are a Hungarian to English translator and have questions about your source text or are uncertain how to translate common Hungarian sayings, what to do with long Hungarian sentences, etc.
-⁃ You have translated a collection of selected works and want help ordering the pieces.
-⁃ You want guidance on where and how to publish your translations.
+- You have translated a collection of selected works and want help ordering the pieces.
+- You want guidance on where and how to publish your translations.
