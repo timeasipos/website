@@ -18,7 +18,7 @@ permalink: /magazines/
 - [The Lifted Brow](https://www.theliftedbrow.com/liftedbrow/2019/6/3/the-lifted-brow-issue-42-out-today)
 - [Asymptote](https://www.asymptotejournal.com/poetry/kornelia-deres-five-poems/)
 - [Homonym](https://www.homonymjournal.com/issue-6/timea-balogh/)
-- [Brooklyn Rail](https://intranslation.brooklynrail.org/hungarian/- salvation-at-the-temporary-housing-district-part-i-of-the-official-history-of-inotas-regime-change/)
+- [Brooklyn Rail](https://intranslation.brooklynrail.org/hungarian/-salvation-at-the-temporary-housing-district-part-i-of-the-official-history-of-inotas-regime-change/)
 - [Waxwing](http://waxwingmag.org/items/issue17/70_Balogh-Translators-Note.php)
 - [Split Lip](https://www.splitlipmagazine.com/0619-mtys-dunajcsik-timea-balogh)
 - [Bull: Men’s Fiction](http://bullmensfiction.com/fiction/sparrows/)
