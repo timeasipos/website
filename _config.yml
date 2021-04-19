@@ -24,7 +24,7 @@ description: "Timea Sipos is a Hungarian-American writer and translator with an 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: TimeaRozalia
-# github_username:  garrefa
+# github_username: timeasipos
 
 # Build settings
 theme: minima
