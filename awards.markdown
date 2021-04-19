@@ -24,6 +24,12 @@ permalink: /awards/
 
 - The MacDowell Colony
 - Vermont Studio Center
-- Translators’ House in Balatonfüred, Hungary
-- Hungarian Translators House Residency in Dunabogdány, Hungary
+- Hungarian Translators House in Balatonfüred, Hungary
+- Hungarian Translators' Residency in Dunabogdány, Hungary
 - József Attila Circle Writers’ Residency in Szigliget, Hungary
+
+## Workshops
+- 2021 Tin House Winter Workshop with Kimberly King Parsons
+- 2020 English-Hungarian Translation Webinar, sponsored by the Hungarian Translators House
+- 2020 Literary Translation Workshop with Daniel Hahn 
+- 2019 AWP Tin House Workshop with Marie Helene Bertino
