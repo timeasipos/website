@@ -25,5 +25,5 @@ permalink: /awards/
 - The MacDowell Colony
 - Vermont Studio Center
 - Translators’ House in Balatonfüred, Hungary
-- Hungarian Translators’ Residency in Dunabogdány, Hungary
+- Hungarian Translators House Residency in Dunabogdány, Hungary
 - József Attila Circle Writers’ Residency in Szigliget, Hungary
