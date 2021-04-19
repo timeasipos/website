@@ -19,11 +19,21 @@ at the Balassi Institute in her beloved city.
 
 <div stype="text-align:justify; text-justify:inter-word;">
 Timea published more than thirty works, including Hungarian translations and original fiction and 
-poetry, in reputable American and international magazines in just over two years. She translates 
-writers such as Márton Simon, Ilka Papp-Zakor, Kinga Tóth, Éva Veronika Kalapos, Mátyás Dunajcsik, 
-Ferenc Czinki, Zita Izsó, Tibor Babiczky, and many more. She has been awarded residencies at 
-The Macdowell Colony, The Vermont Studio Center, and elsewhere. She’s currently finishing her first 
+poetry, in reputable American and international magazines in just over two years. She is a proud
+2021 Pushcart Prize nominee, a PEN/Robert J. Dau Prize nominee, a Miami Book Fair Emerging Writers 
+Fellowship honorable mention, a J.F. Powers Prize for Short Fiction finalist, and a Cecelia Joyce 
+Johnson Award finalist. She translates writers such as Márton Simon, Ilka Papp-Zakor, Éva Veronika 
+Kalapos, Mátyás Dunajcsik, Ferenc Czinki, Zita Izsó, Tibor Babiczky, and many more. Her translation 
+of Márton Simon's chapbook of poetry called Songs for 3:45 AM is forthcoming with The Offending Adam.
+</div>
+<br/>
+
+<div stype="text-align:justify; text-justify:inter-word;">
+Timea has earned the support of the Macdowell Colony, the Steinbeck Fellowship, Tin House, the Vermont 
+Studio Center, the American Literary Translators Association, the Hungarian Translators House Foundation, 
+the Nevada Arts Council, and the Black Mountain Institute, among other. She’s currently finishing her first 
 book, a short story collection of magical realism and historical fiction centering the narratives of 
-Hungarian and Hungarian-American women.
+Hungarian and Hungarian-American women. She also has a speculative novel set in her mother's lakeside
+town of Balatonlelle in the works. 
 </div>
 <br/>
