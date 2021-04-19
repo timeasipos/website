@@ -7,7 +7,9 @@ permalink: /magazines/
 - Prairie Schooner
 - [Passages North](https://www.passagesnorth.com/issue-41/the-stone-men-by-timea-balogh)
 - [Juked](http://juked.com/2018/04/timea-balogh-what-they-call-it.asp)
-- [Washington Square Review](https://www.washingtonsquarereview.com/issue-44-a)
+- [Kulter](https://www.kulter.hu/tag/sipos-timea/)
+- [The Los Angeles Review](https://losangelesreview.org/with-bukowski-timea-sipos/)
+- [Trafika Europe](https://cld.bz/users/user-N5y4U8g/Trafika-Europe-Quarterly/TE20-Migrant-Mosaics/144/- [Washington Square Review](https://www.washingtonsquarereview.com/issue-44-a))
 - [Cosmonauts Avenue](https://cosmonautsavenue.com/eva-veronika-kalapos/)
 - [Michigan Quarterly Review](https://sites.lsa.umich.edu/mqr/2019/10/open-air-and-in-the-best-of-cases-south/)
 - [Lunch Ticket](https://lunchticket.org/before-spring-xxxv-advent-omega/)
