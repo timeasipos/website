@@ -13,3 +13,4 @@ permalink: /miscellanea/
 - [Mudjaroo: Hungarian Literature in English](https://www.facebook.com/mudjaroo/)
 - [Interview in VIM Magazine on the Neon Lit Reading Series at the Believer Festival](https://www.vimmag.com/culture/2018/3/24/-the-believer-festival)
 - [Interview in LIT Magazine on Translation, Writing, Immigration, and Identity](http://www.litmagazine.org/tag/timea-balogh/) 
+- [Interview with Trafika Europe on the translation of Márton Simon's poetry chapbook, Songs for 3:45 AM](https://omny.fm/shows/trafikaeurope-radio/m-rton-simon-timea-sipos-songs-for-3-45-am) 
