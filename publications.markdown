@@ -1,13 +1,15 @@
 ---
 layout: page
-title: Magazines
-permalink: /magazines/
+title: Publications
+permalink: /publications/
 ---
 
 - Prairie Schooner
 - [Passages North](https://www.passagesnorth.com/issue-41/the-stone-men-by-timea-balogh)
 - [Juked](http://juked.com/2018/04/timea-balogh-what-they-call-it.asp)
 - [Kulter](https://www.kulter.hu/tag/sipos-timea/)
+- [The Offending Adam] (https://theoffendingadam.com/2021/songs-for-345am/)  
+- [Hopscotch Magazine] (https://hopscotchtranslation.com/2021/03/05/lets-start-with-the-trees/) 
 - [The Los Angeles Review](https://losangelesreview.org/with-bukowski-timea-sipos/)
 - [Trafika Europe](https://cld.bz/users/user-N5y4U8g/Trafika-Europe-Quarterly/TE20-Migrant-Mosaics/144/)
 - [Washington Square Review](https://www.washingtonsquarereview.com/issue-44-a)
