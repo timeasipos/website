@@ -13,18 +13,18 @@ layout: page
 <div stype="text-align:justify; text-justify:inter-word;">
 Timea Sipos is a Hungarian-American writer and translator with an MFA in Creative Writing from the 
 University of Nevada, Las Vegas. Originally from Budapest, she later studied literary translation 
-at the Balassi Institute in her beloved city.
+at the Balassi Institute in her beloved city. She is a proud 2021-2022 Steinbeck Fellow.
 </div>
 <br/>
 
 <div stype="text-align:justify; text-justify:inter-word;">
 Timea published more than thirty works, including Hungarian translations and original fiction and 
-poetry, in reputable American and international magazines in just over two years. She is a proud
+poetry, in reputable American and international magazines in just over two years. She is a
 2021 Pushcart Prize nominee, a PEN/Robert J. Dau Prize nominee, a Miami Book Fair Emerging Writers 
 Fellowship honorable mention, a J.F. Powers Prize for Short Fiction finalist, and a Cecelia Joyce 
 Johnson Award finalist. She translates writers such as Márton Simon, Ilka Papp-Zakor, Éva Veronika 
 Kalapos, Mátyás Dunajcsik, Ferenc Czinki, Zita Izsó, Tibor Babiczky, and many more. Her translation 
-of Márton Simon's chapbook of poetry called Songs for 3:45 AM is forthcoming with The Offending Adam.
+of Márton Simon's chapbook of poetry called Songs for 3:45 AM appeared with The Offending Adam in 2021.
 </div>
 <br/>
 
