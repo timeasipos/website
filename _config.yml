@@ -40,7 +40,7 @@ defaults:
 
 header_pages:
   - courses.markdown
-  - magazines.markdown
+  - publications.markdown
   - awards.markdown
   - miscellanea.markdown
 
