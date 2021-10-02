@@ -4,11 +4,9 @@ title: Courses
 permalink: /courses/
 ---
 
-<div stype="text-align:justify; text-justify:inter-word;">
-<b> Upcoming Fall 2021 Hungarian to English Literary Translation Course: 
-</div>
-<br/>
-  People interested in pursuing the art of literary translation as a hobby or as a potential career are encouraged to apply for this course. Only a love for     
+## Upcoming Fall 2021 Hungarian to English Literary Translation Course:
+
+People interested in pursuing the art of literary translation as a hobby or as a potential career are encouraged to apply for this course. Only a love for     
   Hungarian literature and an advanced English proficiency are required for attendance. Students need not native speakers of either language. This course will cover 
   classical and contemporary authors, both household names and newly emerging talent. Translators should expect to work with Sándor Weöres, Csáth Géza, Ilka Papp 
   Zakor, Kornélia Deres, and Ferenc Molnár. A few of these authors are scheduled to make an appearance for the class to answer translation questions. Through our 
@@ -16,9 +14,8 @@ permalink: /courses/
   more. Students should be prepared to translate a passage of prose, poetry, or drama each week and provide helpful feedback to their classmates. Finally, toward 
   the end of the course, I will provide students with the tools and knowledge necessary to publish their translations in English-language literary journals and with 
   publishing houses. 
-</div>
-<br/>
   
+ 
 Write to me at <a href="mailto:contact@timea-sipos.com?subject=Course - Intro Hungarian English Literature">contact@timea-sipos.com</a> to sign up.
 </div>
 <br/>
