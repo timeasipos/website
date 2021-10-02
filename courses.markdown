@@ -16,9 +16,13 @@ From February 16th to May 25th 2021, I had the pleasure of leading an online Hun
 
 
   ["The Fat Girl Inside Me", a story by Panni Puskás, translated by Anna Polonyi](https://hlo.hu/new-work/panni-puskas-the-fat-girl-inside-me-1.html)
+  
   ["Atlantis", a poem by Márton Simon, translated by Ryan Lane](https://hlo.hu/new-work/marton-simon-atlantis.html)
+  
   [The second act of the play Atriumchloride by Lajos Parti Nagy, translated by Charles Hebbert](https://hlo.hu/new-work/lajos-parti-nagy-guest-house.html)
+  
   ["MaIDENHair", a poem by Kinga Tóth, translated by Alina Williams](https://hlo.hu/new-work/orphan-maidenhair.html)
+  
   ["Lovers", a story by Áron Tamási, translated by Katharina Seyfert](https://hlo.hu/new-work/aron-tamasi-lovers.html)
 
   
@@ -32,7 +36,7 @@ From February 16th to May 25th 2021, I had the pleasure of leading an online Hun
 “Timea's feedback on our individual translations was always invaluable, and the camaraderie engendered by the course format added much to the experience. And let us not forget the occasions that Timea organized for us to personally consult with the contemporary writers we were translating simply irreplaceable opportunities.” –Ryan Lane.
 
 
-*One-on-one private consultations* on translations available by request. 
+**One-on-one private consultations** on translations available by request. 
 Please email me at [contact@timea-sipos.com](mailto:contact@timea-sipos.com?subject=Private%20Consultation") about the work in question and what kind of help you are looking for.
 
 
