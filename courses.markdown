@@ -33,13 +33,16 @@ Write to me at <a href="mailto:contact@timea-sipos.com?subject=Course - Intro Hu
     was a thrill and an absolute delight to have discussions like these with such sharp minds, and to guide the work of such skilled rising translators. I can 
     rightly claim to have learned as much over the course of these months as they did. At the end of our course, Hungarian Literature Online published a translation 
     of each student. Those works can be found here: 
-  ["The Fat Girl Inside Me", a story by Panni Puskás, translated by Anna Polonyi] (https://hlo.hu/new-work/panni-puskas-the-fat-girl-inside-me-1.html)
-  ["Atlantis", a poem by Márton Simon, translated by Ryan Lane] (https://hlo.hu/new-work/marton-simon-atlantis.html)
-  [The second act of the play Atriumchloride by Lajos Parti Nagy, translated by Charles Hebbert] (https://hlo.hu/new-work/lajos-parti-nagy-guest-house.html)
-  ["MaIDENHair", a poem by Kinga Tóth, translated by Alina Williams] (https://hlo.hu/new-work/orphan-maidenhair.html)
-  ["Lovers", a story by Áron Tamási, translated by Katharina Seyfert] (https://hlo.hu/new-work/aron-tamasi-lovers.html)
+  ["The Fat Girl Inside Me", a story by Panni Puskás, translated by Anna Polonyi](https://hlo.hu/new-work/panni-puskas-the-fat-girl-inside-me-1.html)
+  ["Atlantis", a poem by Márton Simon, translated by Ryan Lane](https://hlo.hu/new-work/marton-simon-atlantis.html)
+  [The second act of the play Atriumchloride by Lajos Parti Nagy, translated by Charles Hebbert](https://hlo.hu/new-work/lajos-parti-nagy-guest-house.html)
+  ["MaIDENHair", a poem by Kinga Tóth, translated by Alina Williams](https://hlo.hu/new-work/orphan-maidenhair.html)
+  ["Lovers", a story by Áron Tamási, translated by Katharina Seyfert](https://hlo.hu/new-work/aron-tamasi-lovers.html)
   </div>
 <br/>
+  
+  Testimonials:
+  
 
 <div stype="text-align:justify; text-justify:inter-word;">
 <b>One-on-one private consultations</b> on translations available by request. 
