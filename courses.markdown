@@ -31,7 +31,12 @@ Write to me at [contact@timea-sipos.com](mailto:contact@timea-sipos.com?subject=
 <br/>
   
   Testimonials:
-  
+  “On our first day, we puzzled over the subtle difference between ‘süt’ in Hungarian and ‘bake’ in English: this was how I knew I was in the right place. What a treat to think collectively about the many quirks, mysteries and possibilities of both the English and Hungarian literary traditions. I couldn't have been in better hands!” –Anna Polonyi, MFA Iowa Writers' Workshop or Anna Polonyi, author of Wayword ![image](https://user-images.githubusercontent.com/82834096/135731596-69ecbe9b-e7d9-46c2-967d-c44999ed7889.png)
+
+  “Timea brought a wide variety of texts to class, encouraging students to push themselves and tackle texts that pose unique challenges for translation, allowing students to learn in a welcoming, collaborative environment. Throughout the course, she shared her knowledge about writing, translation, and the realities of publication, setting students up to emerge from the course with polished translations and a practical skillset for publishing their work.” –Alina Bessenyey Williams, Hungarian studies program, Central Eurasian Studies, Indiana University![image](https://user-images.githubusercontent.com/82834096/135731598-5274e7c2-7524-4d2b-a9e5-b52c632dbdf6.png)
+
+  “Timea's feedback on our individual translations was always invaluable, and the camaraderie engendered by the course format added much to the experience. And let us not forget the occasions that Timea organized for us to personally consult with the contemporary writers we were translating simply irreplaceable opportunities.” –Ryan Lane ![image](https://user-images.githubusercontent.com/82834096/135731605-b01ae8e2-7562-4ea0-93ce-6e2c4b5f5559.png)
+
 
 <div stype="text-align:justify; text-justify:inter-word;">
 <b>One-on-one private consultations</b> on translations available by request. 
