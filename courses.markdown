@@ -37,6 +37,8 @@ From February 16th to May 25th 2021, I had the pleasure of leading an online Hun
 
 
 **One-on-one private consultations** on translations available by request. 
+
+
 Please email me at [contact@timea-sipos.com](mailto:contact@timea-sipos.com?subject=Private%20Consultation") about the work in question and what kind of help you are looking for.
 
 
