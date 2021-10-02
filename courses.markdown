@@ -12,7 +12,10 @@ People interested in pursuing the art of literary translation as a hobby or as a
 Write to me at [contact@timea-sipos.com](mailto:contact@timea-sipos.com?subject=Course%20-%20Intro%20Hungarian%20English%20Literature) to sign up.
 
 
-From February 16th to May 25th 2021, I had the pleasure of leading an online Hungarian to English literary translation workshop of five students. We gathered on Zoom every Tuesday evening for an hour and a half from all across the globe—Budapest, Berlin, Paris, London, and Bloomington, Indiana. Together, we tackled a carefully curated selection of texts from classical and contemporary, male and female Hungarian authors, including poets, dramatists, and fiction writers. We discussed the nuances of both languages (like, does együttérzés translate as compassion or empathy? And what is the difference between the two?), compared the intricacies of the two cultures (what an American or British sanatorium entails vs. a Hungarian one); and asked difficult questions (like, just what exactly is in a gyros?). We also had the opportunity to pose our questions to some of the authors themselves, namely Lajos Parti Nagy, Panni Puskás, and Márton Simon. It was a thrill and an absolute delight to have discussions like these with such sharp minds, and to guide the work of such skilled rising translators. I can rightly claim to have learned as much over the course of these months as they did. At the end of our course, Hungarian Literature Online published a translation of each student. Those works can be found here:
+*From February 16th to May 25th 2021, I had the pleasure of leading an online Hungarian to English literary translation workshop of five students. We gathered on Zoom every Tuesday evening for an hour and a half from all across the globe—Budapest, Berlin, Paris, London, and Bloomington, Indiana. Together, we tackled a carefully curated selection of texts from classical and contemporary, male and female Hungarian authors, including poets, dramatists, and fiction writers. We discussed the nuances of both languages (like, does együttérzés translate as compassion or empathy? And what is the difference between the two?), compared the intricacies of the two cultures (what an American or British sanatorium entails vs. a Hungarian one); and asked difficult questions (like, just what exactly is in a gyros?). We also had the opportunity to pose our questions to some of the authors themselves, namely Lajos Parti Nagy, Panni Puskás, and Márton Simon. It was a thrill and an absolute delight to have discussions like these with such sharp minds, and to guide the work of such skilled rising translators. I can rightly claim to have learned as much over the course of these months as they did. At the end of our course, Hungarian Literature Online published a translation of each student.*
+
+
+Those works can be found here:
 
 
 - ["The Fat Girl Inside Me", a story by Panni Puskás, translated by Anna Polonyi](https://hlo.hu/new-work/panni-puskas-the-fat-girl-inside-me-1.html)
@@ -46,12 +49,12 @@ From February 16th to May 25th 2021, I had the pleasure of leading an online Hun
 ### One-on-one private consultations
 
 
-Please email me at [contact@timea-sipos.com](mailto:contact@timea-sipos.com?subject=Private%20Consultation") about the work in question and what kind of help you are looking for.
-
-
 Some examples of the kind of help I offer:
 - You are a translator from any language into English and would like a second pair of eyes  on your final draft.
 - You are a Hungarian to English translator and have questions about your source text or are uncertain how to translate common Hungarian sayings, what to do with 
   long Hungarian sentences, etc.
 - You have translated a collection of selected works and want help ordering the pieces.
 - You want guidance on where and how to publish your translations.
+
+
+Please email me at [contact@timea-sipos.com](mailto:contact@timea-sipos.com?subject=Private%20Consultation") about the work in question and what kind of help you are looking for.
