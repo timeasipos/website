@@ -4,6 +4,12 @@ title: Courses
 permalink: /courses/
 ---
 
+### Upcoming Autobiographcal Writing Course:
+
+Join me for a course on autobiographical writing at the Rainbow Library on North Buffalo drive in Las Vegas. Together, we will explore the creative nonfiction genre, read works by renowned authors such as Amy Tan, David Sedaris, Sandra Cisneros, and bell hooks, and learn how to write about our own lives with passion, honesty, and grace. We will meet for 6 weeks beginning January 2022 for 1 hour and 30 minutes each class at the total cost of $120 for this course. 
+
+Write to me at [contact@timea-sipos.com](mailto:contact@timea-sipos.com?subject=Course%20-%20Intro%20Hungarian%20English%20Literature) to sign up.
+
 ### Upcoming Winter 2022 Hungarian to English Literary Translation Course:
 
 People interested in pursuing the art of literary translation as a hobby or as a potential career are encouraged to apply for this course. Only a love for Hungarian literature and an advanced English proficiency are required for attendance. Students need not native speakers of either language. This course will cover classical and contemporary authors, both household names and newly emerging talent. Translators should expect to work with Sándor Weöres, Géza Csáth, Ilka Papp Zakor, Kornélia Deres, Dóra Gimesi, and Ferenc Molnár. A few of these authors are scheduled to make an appearance for the class to answer translation questions. Through our reading and translation practice, we will explore questions of genre, form, meaning, faithfulness to the original text, artistic liberties, localization, and more. Students should be prepared to translate a passage of prose, poetry, or drama each week and provide helpful feedback to their classmates. Finally, toward the end of the course, I will provide students with the tools and knowledge necessary to publish their translations in English-language literary journals and with publishing houses.
