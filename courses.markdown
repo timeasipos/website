@@ -6,7 +6,7 @@ permalink: /courses/
 
 ### Upcoming Autobiographcal Writing Course:
 
-Join me for a course on autobiographical writing at the Rainbow Library on North Buffalo drive in Las Vegas. Together, we will explore the creative nonfiction genre, read works by renowned authors such as Amy Tan, David Sedaris, Sandra Cisneros, and bell hooks, and learn how to write about our own lives with passion, honesty, and grace. We will meet for 6 weeks beginning January 2022 for 1 hour and 30 minutes each class at the total cost of $120 for this course. 
+Join me for a course on autobiographical writing in Las Vegas. Together, we will explore the creative nonfiction genre, read works by renowned authors such as Amy Tan, David Sedaris, Sandra Cisneros, and bell hooks, and learn how to write about our own lives with passion, honesty, and grace. We will meet for 6 weeks beginning January 2022 for 1 hour and 30 minutes each class at the total cost of $120 for this course. 
 
 Write to me at [contact@timea-sipos.com](mailto:contact@timea-sipos.com?subject=Course%20-%20Intro%20Hungarian%20English%20Literature) to sign up.
 
