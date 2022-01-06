@@ -33,3 +33,4 @@ permalink: /awards/
 - 2020 English-Hungarian Translation Webinar, sponsored by the Hungarian Translators House
 - 2020 Literary Translation Workshop with Daniel Hahn 
 - 2019 AWP Tin House Workshop with Marie Helene Bertino
+![Nevada Arts Council](webiste/assets/img/NAC_NEA_Lockup_Horizontal_300dpi-1080x283.jpeg)
