@@ -37,3 +37,9 @@ Hungarian and Hungarian-American women. She also has a speculative novel set in 
 town of Balatonlelle in the works. 
 </div>
 <br/>
+
+<div stype="text-align:justify; text-justify:inter-word;">
+  She is represented by Heather Carr of the Friedrich Agency.
+</div>
+<br/>
+
