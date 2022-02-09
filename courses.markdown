@@ -5,7 +5,7 @@ permalink: /courses/
 ---
 
 
-### Upcoming 2022 Hungarian to English Literary Translation Course:
+### Upcoming March 2022 Hungarian to English Literary Translation Course:
 
 People interested in pursuing the art of literary translation as a hobby or as a potential career are encouraged to apply for this course. Only a love for Hungarian literature and an advanced English proficiency are required for attendance. Students need not native speakers of either language. This course will cover classical and contemporary authors, both household names and newly emerging talent. Translators should expect to work with Sándor Weöres, Géza Csáth, Ilka Papp Zakor, Kornélia Deres, Dóra Gimesi, and Ferenc Molnár. A few of these authors are scheduled to make an appearance for the class to answer translation questions. Through our reading and translation practice, we will explore questions of genre, form, meaning, faithfulness to the original text, artistic liberties, localization, and more. Students should be prepared to translate a passage of prose, poetry, or drama each week and provide helpful feedback to their classmates. Finally, toward the end of the course, I will provide students with the tools and knowledge necessary to publish their translations in English-language literary journals and with publishing houses.
   
