@@ -5,6 +5,7 @@ permalink: /awards/
 ---
 
 - 2021-2022 - Steinbeck Fellow
+- 2022 - Tenessee Williams & New Orleans Literary Festival Fiction Contest Winner
 - 2021 - J.F. Powers Prize for Short Fiction Finalist
 - 2020 - Cecilia Johnson Award Finalist
 - 2020 - Miami Book Fair Emerging Writers Fellowship Honorable Mention
