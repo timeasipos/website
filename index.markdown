@@ -31,10 +31,9 @@ of Márton Simon's chapbook of poetry called Songs for 3:45 AM appeared with The
 <div stype="text-align:justify; text-justify:inter-word;">
 Timea has earned the support of the Macdowell Colony, the Steinbeck Fellowship, Tin House, the Vermont 
 Studio Center, the American Literary Translators Association, the Hungarian Translators House Foundation, 
-the Nevada Arts Council, and the Black Mountain Institute, among other. She’s currently finishing her first 
-book, a short story collection of magical realism and historical fiction centering the narratives of 
-Hungarian and Hungarian-American women. She also has a speculative novel set in her mother's lakeside
-town of Balatonlelle in the works. 
+the Nevada Arts Council, and the Black Mountain Institute, among others. She’s currently finishing her first 
+book, a short story collection centering the narratives of Hungarian and Hungarian-American women. She also 
+has a speculative novel set in her mother's lakeside town of Balatonlelle in the works. 
 </div>
 <br/>
 
