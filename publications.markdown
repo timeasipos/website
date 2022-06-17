@@ -3,6 +3,7 @@ layout: page
 title: Publications
 permalink: /publications/
 ---
+- [Prairie Schooner](https://muse.jhu.edu/article/743858/pdf)
 - [Aquifer: The Florida Review Online](https://floridareview.cah.ucf.edu/article/lines/)
 - [Passages North](https://www.passagesnorth.com/issue-41/the-stone-men-by-timea-balogh)
 - [Juked](http://juked.com/2018/04/timea-balogh-what-they-call-it.asp)
@@ -26,4 +27,3 @@ permalink: /publications/
 - [Modern Poetry in Translation](https://modernpoetryintranslation.com/magazine/in-a-winter-city-hungary-ted-hughes/)
 - [The Offing](https://theoffingmag.com/contributor/timea-balogh/)
 - [Litera](https://litera.hu/irodalom/netnaplo/nyuzsognek-korulottem-az-irok.html)
-- [Prairie Schooner](https://muse.jhu.edu/article/743858/pdf)
