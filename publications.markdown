@@ -26,4 +26,4 @@ permalink: /publications/
 - [Modern Poetry in Translation](https://modernpoetryintranslation.com/magazine/in-a-winter-city-hungary-ted-hughes/)
 - [The Offing](https://theoffingmag.com/contributor/timea-balogh/)
 - [Litera](https://litera.hu/irodalom/netnaplo/nyuzsognek-korulottem-az-irok.html)
-- [Prairie Schooner]()
+- [Prairie Schooner](https://muse.jhu.edu/article/743858/pdf)
